@@ -1,0 +1,192 @@
+
+fruvio.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+icon_arrow
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+icon_cart
+  rotate: false
+  xy: 260, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+icon_close
+  rotate: false
+  xy: 518, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui_btn_rect_blue
+  rotate: false
+  xy: 2, 601
+  size: 991, 331
+  orig: 991, 331
+  offset: 0, 0
+  index: -1
+ui_btn_rect_red
+  rotate: false
+  xy: 2, 260
+  size: 956, 339
+  orig: 956, 339
+  offset: 0, 0
+  index: -1
+
+fruvio2.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+ui_badge_circle_gold
+  rotate: false
+  xy: 460, 507
+  size: 419, 426
+  orig: 419, 426
+  offset: 0, 0
+  index: -1
+ui_btn_square_blue
+  rotate: false
+  xy: 454, 24
+  size: 432, 441
+  orig: 432, 441
+  offset: 0, 0
+  index: -1
+ui_orb_green
+  rotate: false
+  xy: 2, 2
+  size: 450, 463
+  orig: 450, 463
+  offset: 0, 0
+  index: -1
+ui_panel_square_gold
+  rotate: false
+  xy: 2, 467
+  size: 456, 466
+  orig: 456, 466
+  offset: 0, 0
+  index: -1
+
+fruvio3.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+icon_home
+  rotate: false
+  xy: 758, 681
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+icon_menu
+  rotate: false
+  xy: 758, 423
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+sym_cherry
+  rotate: false
+  xy: 394, 2
+  size: 404, 419
+  orig: 404, 419
+  offset: 0, 0
+  index: -1
+sym_lemon
+  rotate: false
+  xy: 2, 489
+  size: 375, 448
+  orig: 375, 448
+  offset: 0, 0
+  index: -1
+sym_raspberry
+  rotate: false
+  xy: 2, 58
+  size: 390, 429
+  orig: 390, 429
+  offset: 0, 0
+  index: -1
+sym_watermelon
+  rotate: false
+  xy: 379, 517
+  size: 377, 420
+  orig: 377, 420
+  offset: 0, 0
+  index: -1
+
+fruvio4.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+icon_minigames
+  rotate: false
+  xy: 2, 260
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+icon_mute
+  rotate: false
+  xy: 421, 666
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+icon_nav_cart
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+icon_nav_star
+  rotate: false
+  xy: 679, 666
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+icon_play
+  rotate: false
+  xy: 260, 260
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+icon_settings_fruit
+  rotate: false
+  xy: 260, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+icon_sound
+  rotate: false
+  xy: 518, 408
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+icon_star
+  rotate: false
+  xy: 518, 150
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+sym_peach
+  rotate: false
+  xy: 2, 518
+  size: 417, 404
+  orig: 417, 404
+  offset: 0, 0
+  index: -1
